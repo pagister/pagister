@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="296" viewBox="0 0 560 296" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Daler</title>
-  <desc id="description">HTTP-запрос GET /health и ответ 200 OK.</desc>
-  <rect x="0" y="0" width="560" height="296" rx="16" fill="#171B20" stroke="none" stroke-width="2"/>
-  <path d="M32 32H80" stroke="#68CDFA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="24" y="152" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="120" font-weight="700">Daler</text>
-  <rect x="32" y="184" width="496" height="80" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
-  <text x="48" y="236" fill="#F3F6FA" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="32" font-weight="400">GET /health</text>
-  <path d="M296 224H328M320 216L328 224L320 232" stroke="#68CDFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="360" y="236" fill="#68CDFA" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="32" font-weight="600">200 OK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="224" viewBox="0 0 560 224" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Manual QA · Web &amp; API</title>
+  <desc id="description">Фиолетовая сфера в свободном углу обложки и тонкая золотая орбита.</desc>
+  <defs><radialGradient id="sphere" cx="30%" cy="25%" r="75%"><stop stop-color="#A78BFA" stop-opacity=".8"/><stop offset=".32" stop-color="#8B5CF6" stop-opacity=".7"/><stop offset=".76" stop-color="#8B5CF6" stop-opacity=".24"/><stop offset="1" stop-color="#101010"/></radialGradient></defs>
+  <rect x="0.75" y="0.75" width="558.5" height="222.5" rx="24" fill="#0C0B09" stroke="#8B5CF6" stroke-opacity="0.32" stroke-width="1.5"/>
+  <text x="24" y="88" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" fill="#EAE7E1">Manual QA</text>
+  <rect x="24.75" y="128.75" width="222.5" height="62.5" rx="16" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.6" stroke-width="1.5"/>
+  <text x="136" y="172" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="500" fill="#A78BFA" text-anchor="middle">Web &amp; API</text>
+  <circle cx="456" cy="144" r="56" fill="#101010"/>
+  <circle cx="456" cy="144" r="56" fill="url(#sphere)" stroke="#8B5CF6" stroke-opacity=".32" stroke-width="1.5"/>
+  <ellipse cx="456" cy="144" rx="72" ry="22" transform="rotate(-20 456 144)" stroke="#FFB020" stroke-width="1.5" stroke-opacity=".9"/>
+  <circle cx="523.66" cy="119.38" r="3" fill="#FFC857"/>
+  <circle cx="425.2" cy="94.72" r="3" fill="#A78BFA"/>
+  <circle cx="494.08" cy="186" r="2.5" fill="#8B5CF6"/>
 </svg>

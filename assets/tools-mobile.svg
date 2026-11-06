@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="1040" viewBox="0 0 560 1040" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Инструменты</title>
+  <desc id="description">Четыре карточки в одну колонку. Текстовый список находится в README.</desc>
+  <rect x="0.75" y="0.75" width="558.5" height="230.5" rx="20" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1.5"/>
+  <g transform="translate(488 32)" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="4" width="40" height="32" rx="5"/><path d="M0 12H40M14 20L9 24L14 28M26 20L31 24L26 28"/></g>
+  <text x="32" y="56" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="600" fill="#EAE7E1">Web и API</text>
+  <text x="32" y="112" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Postman</text>
+  <text x="32" y="152" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Chrome DevTools</text>
+  <text x="32" y="192" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Firefox DevTools</text>
+  <rect x="0.75" y="248.75" width="558.5" height="190.5" rx="20" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1.5"/>
+  <g transform="translate(488 280)" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="20" cy="8" rx="16" ry="6"/><path d="M4 8V32C4 40 36 40 36 32V8M4 20C4 28 36 28 36 20"/></g>
+  <text x="32" y="304" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="600" fill="#EAE7E1">Базы данных</text>
+  <text x="32" y="360" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">PostgreSQL · SQL</text>
+  <text x="32" y="400" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">DBeaver · pgAdmin</text>
+  <rect x="0.75" y="456.75" width="558.5" height="334.5" rx="20" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1.5"/>
+  <g transform="translate(488 488)" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="0" width="24" height="40" rx="5"/><path d="M16 8H24M18 32H22"/></g>
+  <text x="32" y="512" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="600" fill="#EAE7E1">Прокси и Mobile Web</text>
+  <text x="32" y="568" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Charles Proxy</text>
+  <text x="32" y="608" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Breakpoints · Map Local</text>
+  <text x="32" y="648" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Throttling</text>
+  <text x="32" y="720" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Реальные мобильные</text>
+  <text x="32" y="760" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">устройства и эмуляторы</text>
+  <rect x="0.75" y="808.75" width="558.5" height="230.5" rx="20" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1.5"/>
+  <g transform="translate(488 840)" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="5"/><circle cx="32" cy="8" r="5"/><circle cx="20" cy="32" r="5"/><path d="M13 8H27M10 13L18 27M30 13L22 27"/></g>
+  <text x="32" y="864" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="600" fill="#EAE7E1">Окружение</text>
+  <text x="32" y="904" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="600" fill="#EAE7E1">и инфраструктура</text>
+  <text x="32" y="960" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Git · GitHub</text>
+  <text x="32" y="1008" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400" fill="#B9B3A8">Linux · Kafka</text>
+</svg>

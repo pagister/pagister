@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="264" viewBox="0 0 960 264" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Daler</title>
-  <desc id="description">HTTP-запрос GET /health и ответ 200 OK.</desc>
-  <rect x="0" y="0" width="960" height="264" rx="16" fill="#171B20" stroke="none" stroke-width="2"/>
-  <path d="M32 40H80" stroke="#68CDFA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="32" y="88" fill="#BCC6D2" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="24" font-weight="500">QA PORTFOLIO</text>
-  <text x="24" y="216" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="144" font-weight="700">Daler</text>
-  <rect x="568" y="32" width="360" height="200" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
-  <text x="592" y="96" fill="#F3F6FA" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="32" font-weight="400">GET /health</text>
-  <path d="M592 128H904" stroke="#46515E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="592" y="192" fill="#68CDFA" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="48" font-weight="600">200 OK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Manual QA · Web &amp; API</title>
+  <desc id="description">Фиолетовая сфера с одной тонкой золотой орбитой.</desc>
+  <defs><radialGradient id="sphere" cx="30%" cy="25%" r="75%"><stop stop-color="#A78BFA" stop-opacity=".8"/><stop offset=".32" stop-color="#8B5CF6" stop-opacity=".7"/><stop offset=".76" stop-color="#8B5CF6" stop-opacity=".24"/><stop offset="1" stop-color="#101010"/></radialGradient></defs>
+  <rect x="0.75" y="0.75" width="958.5" height="278.5" rx="24" fill="#0C0B09" stroke="#8B5CF6" stroke-opacity="0.32" stroke-width="1.5"/>
+  <text x="24" y="144" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="104" font-weight="700" fill="#EAE7E1">Manual QA</text>
+  <rect x="32.75" y="176.75" width="246.5" height="62.5" rx="16" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.6" stroke-width="1.5"/>
+  <text x="156" y="220" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="500" fill="#A78BFA" text-anchor="middle">Web &amp; API</text>
+  <circle cx="800" cy="136" r="96" fill="#101010"/>
+  <circle cx="800" cy="136" r="96" fill="url(#sphere)" stroke="#8B5CF6" stroke-opacity=".32" stroke-width="1.5"/>
+  <ellipse cx="800" cy="136" rx="144" ry="40" transform="rotate(-20 800 136)" stroke="#FFB020" stroke-width="1.5" stroke-opacity=".9"/>
+  <circle cx="935.32" cy="86.75" r="3" fill="#FFC857"/>
+  <circle cx="747.2" cy="51.519999999999996" r="3" fill="#A78BFA"/>
+  <circle cx="865.28" cy="208" r="2.5" fill="#8B5CF6"/>
 </svg>

@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="152" viewBox="0 0 560 152" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Web · API · Add-on</title>
-  <desc id="description">Веб-приложение, API и браузерное расширение.</desc>
-  <rect x="0" y="0" width="560" height="152" rx="16" fill="#171B20" stroke="none" stroke-width="2"/>
-  <rect x="32" y="24" width="144" height="104" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
-  <text x="104" y="88" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="500" text-anchor="middle">Web</text>
-  <rect x="208" y="24" width="144" height="104" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
-  <text x="280" y="88" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="500" text-anchor="middle">API</text>
-  <rect x="384" y="24" width="144" height="104" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
-  <text x="456" y="88" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="500" text-anchor="middle">Add-on</text>
-  <path d="M184 76H200M192 68L200 76L192 84" stroke="#68CDFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M360 76H376M368 68L376 76L368 84" stroke="#68CDFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="176" viewBox="0 0 560 176" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">ReAlgo</title>
+  <desc id="description">Кейс моей работы: ReAlgo.</desc>
+  <rect x="0.75" y="0.75" width="558.5" height="174.5" rx="24" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.75" stroke-width="1.5"/>
+  <text x="24" y="48" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="500" fill="#A78BFA">КЕЙС</text>
+  <text x="24" y="128" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="#EAE7E1">ReAlgo</text>
+  <path d="M344 88H384" fill="none" stroke="#FFB020" stroke-width="1.5" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M416 88L440 49.599999999999994H488L512 88L488 126.4H440Z" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M435.2 88L464 64L492.8 88L464 112Z" fill="none" stroke="#A78BFA" stroke-width="1.5" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="464" cy="88" r="4" fill="#8B5CF6"/>
 </svg>

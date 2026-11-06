@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="56" viewBox="0 0 320 56" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Winner</title>
+  <desc id="description">Kodik Launchpad — Winner.</desc>
+  <rect x="0.75" y="0.75" width="318.5" height="54.5" rx="16" fill="#151211" stroke="#FFB020" stroke-opacity="0.8" stroke-width="1.5"/>
+  <g transform="translate(24 12)" fill="none" stroke="#FFC857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 0H32V12C32 28 8 28 8 12ZM8 4H0V8C0 16 8 16 8 16M32 4H40V8C40 16 32 16 32 16M20 24V32M10 32H30"/></g>
+  <text x="88" y="38" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#FFC857">Winner</text>
+</svg>
