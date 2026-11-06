@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="244" viewBox="0 0 960 244" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Сейчас изучаю</title>
+  <desc id="description">C# и ООП; учебные приложения на Windows Forms.</desc>
+  <rect x="1" y="1" width="958" height="242" rx="20" fill="#171B20" stroke="#3B444F" stroke-width="2"/>
+  <text x="32" y="54" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600">СЕЙЧАС ИЗУЧАЮ</text>
+  <text x="28" y="118" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700">C# · ООП</text>
+  <text x="32" y="168" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="400">Учебные приложения</text>
+  <text x="32" y="210" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="400">на Windows Forms</text>
+  <rect x="641" y="33" width="286" height="178" rx="12" fill="#21272F" stroke="#3B444F" stroke-width="2"/>
+  <path d="M640 70L928 70" stroke="#3B444F" stroke-width="2" stroke-linecap="round"/>
+  <text x="660" y="58" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="400">Windows Forms</text>
+  <rect x="661" y="93" width="246" height="24" rx="5" fill="#171B20" stroke="#3B444F" stroke-width="2"/>
+  <rect x="661" y="135" width="246" height="24" rx="5" fill="#171B20" stroke="#3B444F" stroke-width="2"/>
+  <rect x="817" y="179" width="90" height="26" rx="5" fill="#68CDFA" stroke="#68CDFA" stroke-width="2"/>
+  <text x="862" y="199" fill="#171B20" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle">OK</text>
+</svg>

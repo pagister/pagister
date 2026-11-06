@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Сейчас изучаю</title>
+  <desc id="description">C# и ООП; учебные приложения на Windows Forms.</desc>
+  <rect x="1" y="1" width="558" height="318" rx="20" fill="#171B20" stroke="#3B444F" stroke-width="2"/>
+  <text x="32" y="64" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="600">Сейчас изучаю</text>
+  <text x="28" y="146" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="60" font-weight="700">C# · ООП</text>
+  <text x="32" y="220" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400">Учебные приложения</text>
+  <text x="32" y="268" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="400">на Windows Forms</text>
+  <rect x="437" y="33" width="90" height="86" rx="12" fill="#21272F" stroke="#3B444F" stroke-width="2"/>
+  <path d="M436 70L528 70" stroke="#3B444F" stroke-width="2" stroke-linecap="round"/>
+  <path d="M454 88L510 88" stroke="#68CDFA" stroke-width="3" stroke-linecap="round"/>
+  <path d="M454 104L496 104" stroke="#BCC6D2" stroke-width="3" stroke-linecap="round"/>
+</svg>

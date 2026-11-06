@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="336" viewBox="0 0 960 336" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Daler</title>
+  <desc id="description">Manual QA · Web &amp; API. Пример HTTP-запроса и ответа.</desc>
+  <rect x="1" y="1" width="958" height="334" rx="20" fill="#171B20" stroke="#3B444F" stroke-width="2"/>
+  <path d="M32 40L80 40" stroke="#68CDFA" stroke-width="4" stroke-linecap="round"/>
+  <text x="32" y="80" fill="#BCC6D2" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="22" font-weight="500">PORTFOLIO</text>
+  <text x="26" y="196" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="112" font-weight="700">Daler</text>
+  <text x="32" y="254" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="400">Manual QA · Web &amp; API</text>
+  <rect x="537" y="33" width="390" height="270" rx="20" fill="#21272F" stroke="#3B444F" stroke-width="2"/>
+  <text x="560" y="70" fill="#BCC6D2" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="20" font-weight="500">REQUEST</text>
+  <text x="560" y="114" fill="#F3F6FA" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="24" font-weight="500">GET /api/health</text>
+  <path d="M560 140L904 140" stroke="#3B444F" stroke-width="2" stroke-linecap="round"/>
+  <text x="560" y="176" fill="#BCC6D2" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="20" font-weight="500">RESPONSE</text>
+  <text x="560" y="230" fill="#68CDFA" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="44" font-weight="700">200 OK</text>
+  <text x="560" y="272" fill="#F3F6FA" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="22" font-weight="400">{ "status": "ok" }</text>
+</svg>

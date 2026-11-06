@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="276" viewBox="0 0 960 276" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">ReAlgo — главный проект</title>
+  <desc id="description">Kodik Launchpad, команда Freeburger. Один QA, шесть участников, четыре победные номинации.</desc>
+  <rect x="1" y="1" width="958" height="274" rx="20" fill="#171B20" stroke="#68CDFA" stroke-width="2"/>
+  <text x="32" y="60" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600">ГЛАВНЫЙ ПРОЕКТ</text>
+  <text x="28" y="152" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="80" font-weight="700">ReAlgo</text>
+  <text x="32" y="216" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400">Freeburger · Kodik Launchpad</text>
+  <rect x="521" y="33" width="406" height="210" rx="20" fill="#21272F" stroke="#3B444F" stroke-width="2"/>
+  <path d="M656 58L656 218" stroke="#3B444F" stroke-width="2" stroke-linecap="round"/>
+  <path d="M792 58L792 218" stroke="#3B444F" stroke-width="2" stroke-linecap="round"/>
+  <text x="588" y="116" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" text-anchor="middle">1</text>
+  <text x="588" y="158" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500" text-anchor="middle">QA</text>
+  <text x="588" y="192" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="400" text-anchor="middle">в команде</text>
+  <text x="724" y="116" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" text-anchor="middle">6</text>
+  <text x="724" y="158" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500" text-anchor="middle">человек</text>
+  <text x="724" y="192" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="400" text-anchor="middle">в команде</text>
+  <text x="860" y="116" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" text-anchor="middle">4</text>
+  <text x="860" y="158" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500" text-anchor="middle">номинации</text>
+  <text x="860" y="192" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="400" text-anchor="middle">с победой</text>
+</svg>
