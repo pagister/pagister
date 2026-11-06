@@ -1,17 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="372" viewBox="0 0 560 372" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">ReAlgo — главный проект</title>
-  <desc id="description">Один QA в команде из шести человек; победа в четырёх номинациях.</desc>
-  <rect x="1" y="1" width="558" height="370" rx="20" fill="#171B20" stroke="#68CDFA" stroke-width="2"/>
-  <text x="32" y="58" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600">ГЛАВНЫЙ ПРОЕКТ</text>
-  <text x="28" y="148" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="80" font-weight="700">ReAlgo</text>
-  <path d="M32 180L528 180" stroke="#3B444F" stroke-width="2" stroke-linecap="round"/>
-  <text x="110" y="252" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="60" font-weight="700" text-anchor="middle">1</text>
-  <text x="110" y="294" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="500" text-anchor="middle">QA</text>
-  <text x="110" y="328" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400" text-anchor="middle">в команде</text>
-  <text x="280" y="252" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="60" font-weight="700" text-anchor="middle">6</text>
-  <text x="280" y="294" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="500" text-anchor="middle">человек</text>
-  <text x="280" y="328" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400" text-anchor="middle">в команде</text>
-  <text x="450" y="252" fill="#68CDFA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="60" font-weight="700" text-anchor="middle">4</text>
-  <text x="450" y="294" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="500" text-anchor="middle">номинации</text>
-  <text x="450" y="328" fill="#BCC6D2" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400" text-anchor="middle">с победой</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="152" viewBox="0 0 560 152" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Web · API · Add-on</title>
+  <desc id="description">Веб-приложение, API и браузерное расширение.</desc>
+  <rect x="0" y="0" width="560" height="152" rx="16" fill="#171B20" stroke="none" stroke-width="2"/>
+  <rect x="32" y="24" width="144" height="104" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
+  <text x="104" y="88" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="500" text-anchor="middle">Web</text>
+  <rect x="208" y="24" width="144" height="104" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
+  <text x="280" y="88" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="36" font-weight="500" text-anchor="middle">API</text>
+  <rect x="384" y="24" width="144" height="104" rx="16" fill="#242B33" stroke="none" stroke-width="2"/>
+  <text x="456" y="88" fill="#F3F6FA" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="500" text-anchor="middle">Add-on</text>
+  <path d="M184 76H200M192 68L200 76L192 84" stroke="#68CDFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 76H376M368 68L376 76L368 84" stroke="#68CDFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
