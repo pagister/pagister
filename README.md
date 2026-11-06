@@ -5,7 +5,7 @@
 
 ## Обо мне
 
-<img src="assets/daler.svg" width="80" alt="Daler"> Проверяю пользовательские сценарии от действия в браузере до ответа сервера. Помогаю команде воспроизвести дефекты и проверяю исправления.
+Меня зовут **Далер**. Проверяю пользовательские сценарии от действия в браузере до ответа сервера. Помогаю команде воспроизвести дефекты и проверяю исправления.
 
 ## Навыки
 
@@ -38,25 +38,16 @@
   <img src="assets/realgo.svg" width="100%" alt="ReAlgo — кейс моей работы.">
 </picture>
 
-**ReAlgo** — командный проект для подготовки к алгоритмическим собеседованиям. На хакатоне **Kodik Launchpad** я был единственным QA в команде **Freeburger** из шести человек. **Наша команда победила в четырёх номинациях.**
+**ReAlgo** — командный проект для подготовки к алгоритмическим собеседованиям. На хакатоне я был единственным QA в команде **Freeburger** из шести человек. **Наша команда победила в четырёх номинациях.**
 
 - Организовал ручное тестирование с нуля. Готовил тест-кейсы и чек-листы, проводил smoke, регрессионные и исследовательские проверки.
 - Проверял регистрацию, вход, обновление токенов, валидацию и лимиты запросов. Анализировал запросы и состояние сессии через DevTools.
 - Оформлял баг-репорты в GitHub Issues и перепроверял исправления, в том числе в браузерном расширении.
 
-**[Сайт ReAlgo ↗](https://realgo.dev/)**
-
-**[Репозиторий команды ↗](https://github.com/mxdtrip/realgo)**
+**[Сайт ReAlgo](https://realgo.dev/)** · **[Репозиторий команды](https://github.com/mxdtrip/realgo)**
 
 ## Kodik Launchpad
 
-<a href="certificates/kodik-launchpad-winner.pdf"><img src="assets/winner.svg" width="224" alt="Winner"><br><img src="assets/kodik-launchpad-winner.png" width="224" alt="Превью сертификата Kodik Launchpad — открыть английский PDF."></a>
+<a href="certificates/kodik-launchpad-winner.pdf"><img src="assets/kodik-launchpad-winner.png" width="224" alt="Winner — Kodik Launchpad. Открыть английский PDF."></a>
 
 **[Winner](certificates/kodik-launchpad-winner.pdf)** · [Finalist](certificates/kodik-launchpad-finalist.pdf) · [Shortlist](certificates/kodik-launchpad-shortlist.pdf) · [Participant](certificates/kodik-launchpad-participant.pdf)
-
-## Сейчас изучаю
-
-<picture>
-  <source media="(max-width: 800px)" srcset="assets/learning-mobile.svg">
-  <img src="assets/learning.svg" width="100%" alt="C# · ООП.">
-</picture>

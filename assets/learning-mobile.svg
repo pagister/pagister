@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="96" viewBox="0 0 560 96" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Сейчас изучаю</title>
-  <desc id="description">C# · ООП.</desc>
-  <rect x="0.75" y="0.75" width="558.5" height="94.5" rx="20" fill="#101010" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1.5"/>
-  <text x="24" y="64" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="40" font-weight="600" fill="#EAE7E1">C# · ООП</text>
-  <g transform="translate(480 24)" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0H16C20 0 24 4 24 8C24 4 28 0 32 0H48V36H32C28 36 24 40 24 40C24 40 20 36 16 36H0ZM24 8V40"/></g>
-</svg>

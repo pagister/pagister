@@ -1,15 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" fill="none" role="img" aria-labelledby="title description">
   <title id="title">Manual QA · Web &amp; API</title>
-  <desc id="description">Фиолетовая сфера с одной тонкой золотой орбитой.</desc>
-  <defs><radialGradient id="sphere" cx="30%" cy="25%" r="75%"><stop stop-color="#A78BFA" stop-opacity=".8"/><stop offset=".32" stop-color="#8B5CF6" stop-opacity=".7"/><stop offset=".76" stop-color="#8B5CF6" stop-opacity=".24"/><stop offset="1" stop-color="#101010"/></radialGradient></defs>
-  <rect x="0.75" y="0.75" width="958.5" height="278.5" rx="24" fill="#0C0B09" stroke="#8B5CF6" stroke-opacity="0.32" stroke-width="1.5"/>
+  <desc id="description">Фиолетовый Сатурн: дальняя дуга кольца скрыта сферой, ближняя проходит перед её нижней половиной.</desc>
+  <defs><radialGradient id="sphere" cx="32%" cy="24%" r="78%"><stop stop-color="#A78BFA" stop-opacity=".92"/><stop offset=".25" stop-color="#8B5CF6" stop-opacity=".74"/><stop offset=".58" stop-color="#8B5CF6" stop-opacity=".34"/><stop offset=".85" stop-color="#101010" stop-opacity=".95"/><stop offset="1" stop-color="#0C0B09"/></radialGradient></defs>
+  <rect x=".75" y=".75" width="958.5" height="278.5" rx="24" fill="#0C0B09" stroke="#8B5CF6" stroke-opacity="0.32" stroke-width="1.5"/>
   <text x="24" y="144" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="104" font-weight="700" fill="#EAE7E1">Manual QA</text>
-  <rect x="32.75" y="176.75" width="246.5" height="62.5" rx="16" fill="#151211" stroke="#8B5CF6" stroke-opacity="0.6" stroke-width="1.5"/>
+  <rect x="32.75" y="176.75" width="246.5" height="62.5" rx="16" fill="#151211" stroke="#8B5CF6" stroke-opacity=".6" stroke-width="1.5"/>
   <text x="156" y="220" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="500" fill="#A78BFA" text-anchor="middle">Web &amp; API</text>
-  <circle cx="800" cy="136" r="96" fill="#101010"/>
-  <circle cx="800" cy="136" r="96" fill="url(#sphere)" stroke="#8B5CF6" stroke-opacity=".32" stroke-width="1.5"/>
-  <ellipse cx="800" cy="136" rx="144" ry="40" transform="rotate(-20 800 136)" stroke="#FFB020" stroke-width="1.5" stroke-opacity=".9"/>
-  <circle cx="935.32" cy="86.75" r="3" fill="#FFC857"/>
-  <circle cx="747.2" cy="51.519999999999996" r="3" fill="#A78BFA"/>
-  <circle cx="865.28" cy="208" r="2.5" fill="#8B5CF6"/>
+  <g id="saturn" transform="translate(800 136) rotate(-20)">
+    <path id="ring-back" d="M -128 0 A 128 36 0 0 1 128 0" fill="none" stroke="#FFB020" stroke-width="1.5" stroke-opacity=".65"/>
+    <g id="planet"><circle r="84" fill="#101010"/><circle r="84" fill="url(#sphere)" stroke="#8B5CF6" stroke-opacity=".25" stroke-width="1.5"/></g>
+    <path id="ring-front" d="M 128 0 A 128 36 0 0 1 -128 0" fill="none" stroke="#FFC857" stroke-width="1.5" stroke-opacity=".95"/>
+  </g>
 </svg>
