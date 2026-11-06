@@ -18,7 +18,7 @@
 
 <picture>
   <source media="(max-width: 800px)" srcset="assets/tools-mobile.svg">
-  <img src="assets/tools.svg" width="100%" alt="Четыре группы инструментов: Web и API, базы данных, прокси и Mobile Web, окружение и инфраструктура.">
+  <img src="assets/tools.svg" width="100%" alt="Четыре группы инструментов: Web и API, базы данных, прокси, окружение.">
 </picture>
 
 <details>
@@ -26,8 +26,8 @@
 
 - **Web и API:** Postman, Chrome DevTools, Firefox DevTools.
 - **Базы данных:** PostgreSQL, SQL, DBeaver, pgAdmin.
-- **Прокси и Mobile Web:** Charles Proxy с Breakpoints, Map Local и Throttling. Реальные мобильные устройства и эмуляторы.
-- **Окружение и инфраструктура:** Git, GitHub, Linux, Kafka.
+- **Прокси:** Charles Proxy, Breakpoints, Map Local, Throttling.
+- **Окружение:** Git, GitHub, Linux, Kafka.
 
 </details>
 
